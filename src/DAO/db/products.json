@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"title": "One Millon",
+		"description": "Posee un aroma cálido de madera con notas de menta pimentada y mandarina sanguínea en la salida. El corazón revela canela y absoluto de rosa, mientras que las notas de fondo incluyen ámbar ketal y cuero, creando una composición distintiva.",
+		"price": 44550,
+		"thumbnail": [
+			"ruta-imagen-1.jpg"
+		],
+		"code": "001",
+		"category": "Perfumes",
+		"stock": 25,
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "La Vie Est Belle",
+		"description": "Eau de Parfum Lancôme La Vie est Belle ofrece un cautivador aroma floral para mujeres sofisticadas. Sus notas incluyen cassis, flor de naranjo, iris y jazmín. Presentado en un formato spray conveniente y recargable para uso diario o en ocasiones especiales, permitiendo disfrutarlo por más tiempo.",
+		"price": 45900,
+		"thumbnail": [
+			"ruta-imagen-2.jpg"
+		],
+		"code": "002",
+		"category": "Perfumes",
+		"stock": 20,
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Invictus",
+		"description": "Respaldado por décadas de memorables fragancias que llevan su nombre, Paco Rabanne afirma una identidad distintiva resultante de la síntesis del diseño contemporáneo de vanguardia y la artesanía radical.",
+		"price": 44500,
+		"thumbnail": [
+			"ruta-imagen-3.jpg"
+		],
+		"code": "003",
+		"category": "Perfumes",
+		"stock": 30,
+		"status": true
+	},
+	{
+		"id": 4,
+		"title": "Olympea Intense",
+		"description": "Una fragancia internacional floral amaderada y afrutada, todo en una, solo apta para almas rebeldes. La fusión de la exótica flor de tamarindo y frutos silvestres la convierte en una fragancia sorprendente.",
+		"price": 6400,
+		"thumbnail": [
+			"ruta-imagen-4.jpg"
+		],
+		"code": "004",
+		"category": "Perfumes",
+		"stock": 15,
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "Bad Boy",
+		"description": "Este aroma aromático amaderado es perfecto para aquellos que buscan destacarse y dejar una impresión duradera. Las notas de salida de cáñamo y pomelo aportan un toque fresco y energizante, mientras que las notas de corazón de geranio, pimienta negra y salvia brindan un equilibrio perfecto entre lo picante y lo herbal.",
+		"price": 32000,
+		"thumbnail": [
+			"ruta-imagen-5.jpg"
+		],
+		"code": "005",
+		"category": "Perfumes",
+		"stock": 10,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Scandal",
+		"description": "El Eau de Parfum ofrece una mayor concentración de esencias, lo que garantiza una duración prolongada y un aroma más intenso en comparación con otras versiones de perfumes. El tipo de aroma Chipre gourmand combina notas dulces y terrosas, creando una fragancia equilibrada y atractiva.",
+		"price": 70500,
+		"thumbnail": [
+			"ruta-imagen-26.jpg"
+		],
+		"code": "006",
+		"category": "Perfumes",
+		"stock": 27,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Good Girl",
+		"description": "Envuelta en un característico frasco con forma de tacón de alta costura, Good Girl es una fragancia atrevida y sofisticada a la vez, inspirada en la visión única que Carolina tiene de la dualidad de la mujer moderna.",
+		"price": 68000,
+		"thumbnail": [
+			"ruta-imagen-7.jpg"
+		],
+		"code": "007",
+		"category": "Perfumes",
+		"stock": 5,
+		"status": true
+	},
+	{
+		"id": 8,
+		"title": "Fame",
+		"description": "Una fragancia diseñada para mujeres que generalmente presenta una mezcla de notas florales como rosas, jazmín y lirios, así como toques de frutas como peras o duraznos, combinados con notas amaderadas o almizcle para crear un aroma elegante y sofisticado que acentúa la feminidad. ",
+		"price": 72000,
+		"thumbnail": [
+			"ruta-imagen-8.jpg"
+		],
+		"code": "008",
+		"category": "Perfumes",
+		"stock": 7,
+		"status": true
+	},
+	{
+		"id": 9,
+		"title": "Flower by Kenzo",
+		"description": " Su aroma oriental floral combina notas de almizcle blanco, cassis, pimienta rosa, rosa de Bulgaria, vainilla y violeta, creando una esencia envolvente y seductora. ",
+		"price": 48000,
+		"thumbnail": [
+			"ruta-imagen-9.jpg"
+		],
+		"code": "009",
+		"category": "Perfumes",
+		"stock": 10,
+		"status": true
+	},
+	{
+		"id": 10,
+		"title": "212 Heroes Mujer",
+		"description": "En sus notas de salida, encontrarás la dulzura de la frambuesa y la frescura de la mandarina, que se fusionan con las notas de corazón de jazmín y naranja, aportando un toque floral y cítrico.",
+		"price": 66350,
+		"thumbnail": [
+			"ruta-imagen-10.jpg"
+		],
+		"code": "010",
+		"category": "Perfumes",
+		"stock": 27,
+		"status": true
+	}
+]
